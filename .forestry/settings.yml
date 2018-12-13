@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: document
   path: "         Forestry/Test       "
+  label: Index
+  match: "**/*"
+- type: document
+  path: "         Forestry/Test       "
   label: Test Site
 upload_dir: uploads
 public_path: "/uploads"
