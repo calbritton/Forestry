@@ -1,13 +1,9 @@
 ---
-new_page_extension: html
+new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: "         Forestry/Test       "
-  label: Index
-  match: "**/*"
 - type: document
   path: "         Forestry/Test       "
   label: Test Site
